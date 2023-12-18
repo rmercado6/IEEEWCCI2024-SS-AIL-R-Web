@@ -23,7 +23,7 @@
       <p>
         Main topics of this special session include the <b>regulatory landscape</b> and issues associated with the model architecture, inputs and outputs.
       </p>
-      <ol>
+      <ol class="space-y-3">
         <li>
           <b>System Input</b>: aspects of Intellectual Property (Copyright Protection etc.), Data Protection and Privacy, and Transparency requirements
           for Generative and Predictive models etc.
@@ -40,15 +40,19 @@
       <p>
         Click 
         <a href="https://2024.ieeewcci.org/special-sessions">here</a>
-        for full details on the Special Session.
+        for full list of the Special Sessions.
       </p>
       <p>
         Author guidelines can be found
         <a href="https://2024.ieeewcci.org/submission">here</a>.
       </p>
+      <p>
+        Main Conference Website can be found 
+        <a href="https://2024.ieeewcci.org/">here</a>.
+      </p>
       <div class="flex justify-center">
         <a class="btn" href="https://edas.info/newPaper.php?c=31628&track=121739">
-          Submit paper
+          Submit Paper
         </a>
       </div>
     </div>

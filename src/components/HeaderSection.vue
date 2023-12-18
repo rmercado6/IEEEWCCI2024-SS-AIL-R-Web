@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="group flex flex-col lg:flex-row lg:items-end overflow-hidden relative">
+  <div class="group flex flex-col lg:max-h-96 lg:flex-row lg:items-end overflow-hidden relative">
       <div class="flex-initial md:basis-3/5">
         <img src="https://confcats-siteplex.s3.us-east-1.amazonaws.com/wcci24/large_yokahoma_japan_2248134426.jpg" 
             loading="lazy" 

@@ -16,14 +16,14 @@
   header { @apply bg-white flex-col }
   main { @apply bg-white flex-col }
   footer { @apply px-24 py-10 flex flex-col gap-3 items-end justify-end bg-blue-900 }
-  .section { @apply p-6 md:p-24 flex flex-col gap-3 md:text-justify }
+  .section { @apply p-6 md:p-20 flex flex-col gap-3 md:text-justify }
   h1 { @apply text-3xl xl:text-5xl; }
   h2 { @apply text-2xl xl:text-4xl; }
   h3 { @apply text-xl xl:text-3xl; }
   h4 { @apply font-bold mt-6; }
   a { @apply underline decoration-1 text-blue-500 font-bold hover:text-blue-700; }
   .btn {
-    @apply  mt-6 md:mt-20 px-5 p-4 bg-blue-900 rounded-md text-white text-lg font-bold hover:ring 
+    @apply  mt-6 md:mt-12 px-5 p-6 bg-blue-900 rounded-md text-white text-xl font-bold hover:ring 
          hover:bg-blue-800 hover:ring-blue-200 decoration-0 no-underline hover:text-white;
   }
   ol { @apply list-decimal pl-5; }
