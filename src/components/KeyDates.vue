@@ -11,7 +11,7 @@
         Key Dates
       </h3>
       <div class="key-date">
-        <span class="font-semibold">15 January 2024</span><br/>
+        <span class="font-semibold">29 January 2024</span><br/>
         Paper Submission Deadline
       </div>
       <div class="key-date">

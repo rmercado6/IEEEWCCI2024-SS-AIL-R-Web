@@ -43,8 +43,12 @@
         for full list of the Special Sessions.
       </p>
       <p>
-        Author guidelines can be found
+        The Submission must follow author guidelines found
         <a href="https://2024.ieeewcci.org/submission">here</a>.
+      </p>
+      <p>
+        Manuscript Templates are available for Microsoft Word, and LaTeX, which can be downloaded
+        <a href="https://www.ieee.org/conferences/publishing/templates.html">here</a>.
       </p>
       <p>
         Main Conference Website can be found 
