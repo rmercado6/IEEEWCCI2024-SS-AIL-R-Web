@@ -55,7 +55,7 @@
         <a href="https://2024.ieeewcci.org/">here</a>.
       </p>
       <div class="flex justify-center">
-        <a class="btn" href="https://edas.info/newPaper.php?c=31628&track=121739">
+        <a class="btn" href="https://edas.info/newPaper.php?c=31628&track=122561">
           Submit Paper
         </a>
       </div>
