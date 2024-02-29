@@ -57,6 +57,10 @@
         <a href="vpapakonstantinou.com">Vagelis Papakonstantinou</a><br/>
         Professor of Law, Vrije Universiteit Brussel.
       </p>
+      <p>
+        <a href="https://www.linkedin.com/in/amrutha-desikan-b2b1341b2/">Amrutha Srinivasa Desikan</a><br/>
+        Lawyer, Specialising in Innovation, Technology and the Law, University of Edinburgh (Supporting Reviewer)
+      </p>
     </div>
 </template>
 
