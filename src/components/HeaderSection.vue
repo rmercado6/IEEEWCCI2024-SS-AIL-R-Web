@@ -12,7 +12,7 @@
       <div class="flex flex-col pt-10 lg:pt-0 md:text-md mx-4 md:mx-5 mb-3 gap-3 md:basis-2/5">
           <h2>IEEE WCCI 2024</h2>
           <h1>Special Session:<br/><b>AI Law and Regulation</b></h1>
-          <h2>CALL FOR PAPERS</h2>
+          <!-- <h2>CALL FOR PAPERS</h2> -->
           <div class="flex gap-4">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />

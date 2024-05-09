@@ -11,7 +11,7 @@
         Yokohama is a city that inspires academic fusion and multidisciplinary & industrial association. 
       </p>
       <p>
-        We are inviting you to our <b>CALL FOR PAPERS</b> for our <b>Special Session on ‘AI, Law and Regulation’</b>, designed to serve the WCCI community with an inevitable, 
+        We are inviting you to <b>join us</b> for our <b>Special Session on ‘AI, Law and Regulation’</b>, designed to serve the WCCI community with an inevitable, 
         collaborative discussion on the <u>governance and implementation of global regulatory standards (AI Act, GDPR and beyond) to incentivise responsible innovation</u> 
         and prevent technical debt, as demanded and shaped by the law. 
       </p>
@@ -54,11 +54,11 @@
         Main Conference Website can be found 
         <a href="https://2024.ieeewcci.org/">here</a>.
       </p>
-      <div class="flex justify-center">
+      <!-- <div class="flex justify-center">
         <a class="btn" href="https://edas.info/newPaper.php?c=31628&track=122561">
           Submit Paper
         </a>
-      </div>
+      </div> -->
     </div>
 </template>
 

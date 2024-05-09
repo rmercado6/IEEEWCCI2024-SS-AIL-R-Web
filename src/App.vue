@@ -4,6 +4,7 @@ import IntroSection from './components/IntroSection.vue'
 import KeyDates from './components/KeyDates.vue'
 import MoreInfo from './components/MoreInfo.vue'
 import MeetTheOrganizers from './components/MeetTheOrganizers.vue'
+import SpecialSponsoredMeeting from './components/SpecialSponsoredMeeting.vue'
 import Footer from './components/Footer.vue'
 </script>
 
@@ -17,6 +18,7 @@ import Footer from './components/Footer.vue'
     <KeyDates />
     <MoreInfo />
     <MeetTheOrganizers />
+    <SpecialSponsoredMeeting />
   </main>
 
   <footer>
