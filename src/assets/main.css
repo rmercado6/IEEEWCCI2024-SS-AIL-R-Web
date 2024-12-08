@@ -12,7 +12,7 @@
     @apply bg-slate-200 flex justify-center;
     font-family: 'Montserrat', sans-serif;
   }
-  #app { @apply flex flex-col md:w-5/6 w-11/12; }
+  #app { @apply flex flex-col md:w-5/6 w-11/12 min-h-screen; }
   header { @apply bg-white flex-col }
   main { @apply bg-white flex-col }
   footer { @apply px-24 py-10 flex flex-col gap-3 items-end justify-end bg-blue-900 }

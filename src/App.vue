@@ -1,29 +1,44 @@
 <script setup>
-import HeaderSection from './components/HeaderSection.vue'
-import IntroSection from './components/IntroSection.vue'
-import KeyDates from './components/KeyDates.vue'
-import MoreInfo from './components/MoreInfo.vue'
-import MeetTheOrganizers from './components/MeetTheOrganizers.vue'
-import SpecialSponsoredMeeting from './components/SpecialSponsoredMeeting.vue'
 import Footer from './components/Footer.vue'
+import IEEE_WCCI_2024 from "@/Views/IEEE_WCCI_2024.vue";
+
+import {ref, computed} from 'vue'
+import NotFound from "@/Views/NotFound.vue";
+
+const routes = {
+    '/': IEEE_WCCI_2024,
+    // '/about': About
+}
+
+const currentPath = ref(window.location.hash)
+
+window.addEventListener('hashchange', () => {
+    currentPath.value = window.location.hash
+})
+
+const currentView = computed(() => {
+    return routes[currentPath.value.slice(1) || '/'] || NotFound
+})
 </script>
 
 <template>
-  <header>
-    <HeaderSection />
-  </header>
+    <nav
+        id="navbar"
+        class="sticky top-0 z-10 flex bg-blue-900 p-2 text-white gap-3"
+    >
+        <a href="#/">
+            Home
+        </a>
+        <a href="#/about_us">
+            About us
+        </a>
+    </nav>
 
-  <main>
-    <IntroSection />
-    <KeyDates />
-    <MoreInfo />
-    <MeetTheOrganizers />
-    <SpecialSponsoredMeeting />
-  </main>
+    <component :is="currentView"/>
 
-  <footer>
-    <Footer />
-  </footer>
+    <footer>
+        <Footer/>
+    </footer>
 </template>
 
 <style scoped>
