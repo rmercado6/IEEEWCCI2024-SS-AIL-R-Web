@@ -60,6 +60,10 @@
             Professor of computational legal theory at University of Edinburgh.
         </p>
         <p>
+            <b>Colton Crum</b>
+            Graduate Assistant at University of Notre Dame, US.
+        </p>
+        <p>
             <b>Cyndie Demeocq</b>
             Expert in Technologies for Online Safety, Doctoral Researcher in Responsible Natural Language
             Processing, University of Edinburgh, Global Data Fellow.
@@ -67,10 +71,6 @@
         <p>
             <b>Erik Kamenjašević</b>
             Doctoral researcher at KU Leuven at the Centre for IT & IP Law.
-        </p>
-        <p>
-            <a href="catolicalaw.fd.lisboa.ucp.pt/person/giovanni-de-gregorio">Giovanni De Gregorio</a><br/>
-            Law Professor, Católica Global School of Law.
         </p>
         <p>
             <a href="www.lachlansresearch.com">Lachlan D. Urquhart</a><br/>
@@ -87,13 +87,9 @@
             President of Robotics & AI Law Society (RAILS), Associate Professor of IT Law at the University of Tartu.
         </p>
         <p>
-            <a href="www.barczentewicz.com">Mikolaj Barczentewicz</a><br/>
+            <b>Mikolaj Filrej</b><br/>
             Academic Lawyer, Co-Founder and General Partner Expeditions Fund, Ass. Professor in AI Law and Regulation
             Surrey Institute for People-Centred AI.
-        </p>
-        <p>
-            <a href="www.unibo.it/sitoweb/monica.palmirani/en">Monica Palmirani</a><br/>
-            Full Professor in Legal Infromatics, School of Law, University of Bologna.
         </p>
         <p>
             <b>Nicole Iverardi</b>

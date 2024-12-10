@@ -43,13 +43,11 @@
             handled slightly differently. In addition to quality of papers, the relevance and timeliness of the topics
             will be given some weight.
         </p>
-        <p>
-            LINK FOR THE SUBMIT HERE BUTTON:
-            <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIJCNN2025%2FSubmission%2FIndex">
-                HERE
+        <div class="flex items-center justify-center pb-12" >
+            <a class="btn" href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIJCNN2025%2FSubmission%2FIndex">
+                Submit here
             </a>
-            .
-        </p>
+        </div>
 
         <h3 class="text-3xl font-bold flex flex-row gap-3 mb-5">
             More Details About the Special Session
@@ -90,9 +88,9 @@
             <li>Employment and Benefits</li>
             <li>Education</li>
         </ol>
-        <ol>
+        <ol class="flex flex-col gap-6">
             <li>
-                <b>System Input</b>: aspects of Intellectual Property (Copyright Protection etc.), Data Protection and
+                <b>System Input</b>:<br/>Aspects of Intellectual Property (Copyright Protection etc.), Data Protection and
                 Privacy, Ethics and Transparency requirements for Generative and Predictive models etc.<br/>
                 Associated with:<br/>
                 <ul>
@@ -106,7 +104,7 @@
                 </ul>
             </li>
             <li>
-                <b>Model Architecture</b>: eXplainability, transparency, interpretability of decision-making processes,
+                <b>Model Architecture</b>:<br/>eXplainability, transparency, interpretability of decision-making processes,
                 requirements of risk-based management systems, technical standards, model safety (cyber security) and
                 accountability (liability, negligence etc.), practices and obligations.<br/>
                 Associated with:<br/>
@@ -124,7 +122,7 @@
                 </ul>
             </li>
             <li>
-                <b>System Output</b>: aspects of regulating the disruption arising from AI applications, placement of
+                <b>System Output</b>:<br/>Aspects of regulating the disruption arising from AI applications, placement of
                 liability, impact on various industries including finance, healthcare, education, media, advertisement
                 etc.<br/>
                 Associated with:<br/>
