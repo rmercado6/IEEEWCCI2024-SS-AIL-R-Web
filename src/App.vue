@@ -38,14 +38,14 @@ const currentView = computed(() => {
 <template>
     <nav
         id="navbar"
-        class="sticky top-0 z-10 flex bg-blue-900 px-2 text-white gap-3"
+        class="sticky top-0 z-10 flex bg-primary-800 px-2 text-white gap-3"
     >
         <a
             v-for="route in Object.keys(routes)"
             :href="'#' + route"
             :class="currentPath === '#' + route
-                ? 'bg-blue-700'
-                : 'text-blue-300 hover:bg-blue-800'"
+                ? 'bg-primary-600'
+                : 'text-primary-300 hover:bg-primary-700'"
             class="p-2 text-white no-underline hover:text-white"
         >
             {{ routes[route].name }}
