@@ -46,22 +46,22 @@
         </ol>
         <p>
             Click
-            <a href="#">here</a>
+            <a href="https://2025.ijcnn.org/about/topics">here</a>
             for full list of the Special Sessions and Topics.
         </p>
         <p>
             The Submission must follow author guidelines found
-            <a href="#">here</a>
+            <a href="https://2025.ijcnn.org/authors/initial-author-instructions">here</a>
             .
         </p>
         <p>
             Manuscript Templates are available for Microsoft Word, and LaTeX, which can be downloaded
-            <a href="#">here</a>
+            <a href="https://template-selector.ieee.org/secure/templateSelector/format?publicationTypeId=3&titleId=1&articleId=1">here</a>
             .
         </p>
         <p>
             Main Conference Website can be found
-            <a href="#">here</a>
+            <a href="https://2025.ijcnn.org/">here</a>
             .
         </p>
     </div>

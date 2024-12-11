@@ -4,10 +4,10 @@
 <template>
   <div class="group flex flex-col lg:max-h-96 lg:flex-row lg:items-end overflow-hidden relative">
       <div class="flex-initial md:basis-3/5">
-        <img src="https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg"
+        <img src="https://confcats-siteplex.s3.us-east-1.amazonaws.com/ijcnn25/medium_photo_1531572753322_ad063cecc140_849e7552ca.jpeg"
             loading="lazy" 
             class="flex-initial md:basis-3/5" 
-            title="Rome, Italy">
+            title="Rome" alt="Rome"/>
       </div>
       <div class="flex flex-col pt-10 lg:pt-0 md:text-md mx-4 md:mx-5 mb-3 gap-3 md:basis-2/5">
           <h2>INNS IJCNN 2025</h2>
