@@ -46,6 +46,7 @@ const currentView = computed(() => {
     <teleport to="head">
         <title>{{ title }}</title>
         <meta property="og:description" :content="description">
+        <meta property="description" :content="description">
     </teleport>
     <nav
         id="navbar"
