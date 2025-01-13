@@ -13,8 +13,8 @@
             Key Dates
         </h3>
         <div class="key-date">
-            <span class="font-semibold">15 January 2025</span><br/>
-            Paper Submission Deadline
+            <span class="font-semibold line-through">15 January 2025</span><span class="font-semibold text-red-500 ml-1">30 January 2025</span><br/>
+            Extended Paper Submission Deadline
         </div>
         <div class="key-date">
             <span class="font-semibold">31 March 2025</span><br/>
