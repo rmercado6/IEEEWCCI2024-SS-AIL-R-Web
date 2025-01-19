@@ -13,7 +13,8 @@
             community to navigate the imminent AI regulatory landscape. We will have an opportunity to hear from leading
             figures in the European as well as International AI Policy field, particularly in relation to the
             enforcement of the AI Act.<br/>
-            More details on the registration and the date will be released <b>very soon</b>. 
+            <br/>
+            More details on the registration and the date will be released <b>very soon</b>.<br/><br/>
         </p>
         <img src="/rome2.png" alt="Call for papers. AI, Law and regulations special session. IJCNN"/>
         <div class="flex justify-center p-3">
@@ -68,7 +69,7 @@
                 </th>
             </tr>
             <tr>
-                <td class="border-r border-gray-400 p-3">
+                <td class="border-r border-gray-400 p-3 text-justified">
                     <b>Foreword by Maria Tripodi</b>, Undersecretary for Foreign Affairs.<br/>
                     <b>Plenary Talk by Brando Benifei</b>, Co-rapporteur for the AI Act.<br/>
                 </td>
@@ -78,7 +79,7 @@
                 </td>
             </tr>
             <tr class="bg-secondary-600/5">
-                <td class="border-y border-r border-secondary-400 p-3">
+                <td class="border-y border-r border-secondary-400 p-3 text-justified">
                     <b>Panel Discussion 1</b>: Impact of European and International AI Policy, Regulation on Neural Networks<br/>
                     <br/>
                     <i>Confirmed Panellists</i>:<br/>
@@ -93,7 +94,7 @@
                 </td>
             </tr>
             <tr class="border-b-2 border-secondary-600">
-                <td class="border-r border-gray-400 p-3">
+                <td class="border-r border-gray-400 p-3 text-justified">
                     <b>Panel Discussion 2</b>: Responding to Change: Implementation, standardization and certification for Research and Development in AI<br/>
                     <br/>
                     <i>Confirmed Panellists</i>:<br/>
