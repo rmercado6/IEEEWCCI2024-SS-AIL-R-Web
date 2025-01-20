@@ -54,11 +54,6 @@
                 </li>
             </ul>
         </p>
-        <p>
-            Contact Area Chair(s):<br/>
-            Amanda M Horzyk <a href="mailto:amandahorzyk@outlook.com">amandahorzyk@outlook.com</a><br/>
-            Prof Asim Roy <a href="mailto:asim.roy@asu.edu">asim.roy@asu.edu</a>
-        </p>
         <table class="border-collapse">
             <tr class="bg-secondary-600/50">
                 <th class="border-y-2 border-x-0 p-3 border-y-secondary-600 w-1/2">
@@ -74,8 +69,7 @@
                     <b>Plenary Talk by Brando Benifei</b>, Co-rapporteur for the AI Act.<br/>
                 </td>
                 <td class="border-l border-gray-400 p-3">
-                    Nicola Fabiano,<br/>
-                    Danilo C.
+                    Nicola Fabiano, Danilo Comminiello, Danilo Mandic
                 </td>
             </tr>
             <tr class="bg-secondary-600/5">
