@@ -19,7 +19,7 @@
         <img src="/rome2.png" alt="Call for papers. AI, Law and regulations special session. IJCNN"/>
         <div class="flex justify-center p-3">
             <span class="border-2 rounded-md p-3 border-secondary-600 bg-secondary-600/10">
-                <b>Date and Registration details:</b> to be anounced
+                <b>Date and Registration details:</b> 1st July 2025
             </span>
         </div>
         <p>
@@ -78,9 +78,10 @@
                     <br/>
                     <i>Confirmed Panellists</i>:<br/>
                     Alexander Kriebitz<br/>
-                    Karine Caunes<br/>
-                    Virginia Ghiara<br/>
                     Denis Naughton<br/>
+                    Karine Caunes<br/>
+                    Michelangelo Baracchi Bonvicini<br/>
+                    Virginia Ghiara<br/>
                 </td>
                 <td class="border-y border-l border-secondary-400 p-3">
                     Amanda Horzyk<br/>
@@ -93,9 +94,9 @@
                     <br/>
                     <i>Confirmed Panellists</i>:<br/>
                     Domenico Squillace<br/>
-                    Valentina Grazia Sapuppo<br/>
-                    Prof. Massimo Ruffolo<br/>
                     Prof. Georg Gottlob<br/>
+                    Prof. Massimo Ruffolo<br/>
+                    Valentina Grazia Sapuppo<br/>
                 </td>
                 <td class="border-l border-gray-400 p-3">
                     Nicola Fabiano
