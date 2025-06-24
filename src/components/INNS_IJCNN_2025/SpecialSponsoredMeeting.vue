@@ -14,7 +14,9 @@
             figures in the European as well as International AI Policy field, particularly in relation to the
             enforcement of the AI Act.<br/>
             <br/>
-            More details on the registration and the date will be released <b>very soon</b>.<br/><br/>
+            Workshop-only, or full conference registration is available
+            <a target="_blank" href="https://web.cvent.com/event/2ce0e5b9-e135-43bd-b4f7-3197c23f9ce1/regProcessStep1">here</a>.
+            <br/><br/>
         </p>
         <img src="/rome2.png" alt="Call for papers. AI, Law and regulations special session. IJCNN"/>
         <div class="flex justify-center p-3">
@@ -57,7 +59,7 @@
         <table class="border-collapse">
             <tr class="bg-secondary-600/50">
                 <th class="border-y-2 border-x-0 p-3 border-y-secondary-600 w-1/2">
-                    Workshop Artivities
+                    Workshop Activities
                 </th>
                 <th class="border-y-2 border-x-0 p-3 border-y-secondary-600 w-1/2">
                     Moderators
@@ -65,7 +67,6 @@
             </tr>
             <tr>
                 <td class="border-r border-gray-400 p-3 text-justified">
-                    <b>Foreword by Maria Tripodi</b>, Undersecretary for Foreign Affairs.<br/>
                     <b>Plenary Talk by Brando Benifei</b>, Co-rapporteur for the AI Act.<br/>
                 </td>
                 <td class="border-l border-gray-400 p-3">
@@ -80,8 +81,7 @@
                     Alexander Kriebitz<br/>
                     Denis Naughton<br/>
                     Karine Caunes<br/>
-                    Michelangelo Baracchi Bonvicini<br/>
-                    Virginia Ghiara<br/>
+                    Flavia Massucci<br />
                 </td>
                 <td class="border-y border-l border-secondary-400 p-3">
                     Amanda Horzyk<br/>
@@ -94,7 +94,6 @@
                     <br/>
                     <i>Confirmed Panellists</i>:<br/>
                     Domenico Squillace<br/>
-                    Prof. Georg Gottlob<br/>
                     Prof. Massimo Ruffolo<br/>
                     Valentina Grazia Sapuppo<br/>
                 </td>

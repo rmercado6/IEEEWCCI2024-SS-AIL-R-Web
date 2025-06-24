@@ -1,4 +1,5 @@
-<script setup></script>
+<script setup>
+</script>
 
 <template>
 	<!-- Meet the organizers -->
@@ -41,7 +42,7 @@
 			Professor of Information Systems, Arizona State University.
 		</p>
 		<p>
-			Maja Nisevic
+            <b>Maja Nisevic</b>
 			<br />
 			Postdoctoral Researcher at KU Leuven at the Centre for IT & IP Law.
 		</p>
@@ -59,10 +60,12 @@
 		</p>
 		<p>
 			<b>Alan Perotti</b>
+            <br />
 			[X]AI Researcher and Data Scientist, CentAI Italy.
 		</p>
 		<p>
 			<b>Ateet Parihar</b>
+            <br />
 			Asst. Professor, Balaji School of Law, Sri Balaji University, India.
 		</p>
 		<p>
@@ -74,18 +77,26 @@
 		</p>
 		<p>
 			<b>Colton Crum</b>
+            <br />
 			Graduate Assistant at University of Notre Dame, US.
 		</p>
 		<p>
 			<b>Cyndie Demeocq</b>
+            <br />
 			Expert in Technologies for Online Safety, Doctoral Researcher in
 			Responsible Natural Language Processing, University of Edinburgh,
 			Global Data Fellow.
 		</p>
 		<p>
 			<b>Erik Kamenjašević</b>
+            <br />
 			Doctoral researcher at KU Leuven at the Centre for IT & IP Law.
 		</p>
+        <p>
+            <b>Kimberley Paradis</b>
+            <br />
+            PhD Student, Designing Responsible NLP, University of Edinburgh
+        </p>
 		<p>
 			<a href="www.lachlansresearch.com">Lachlan D. Urquhart</a>
 			<br />
@@ -106,7 +117,8 @@
 			of IT Law at the University of Tartu.
 		</p>
 		<p>
-			<b>Mikolaj Filrej</b><br />
+			<b>Mikolaj Filrej</b>
+            <br />
 			Academic Lawyer, Co-Founder and General Partner Expeditions Fund,
 			Ass. Professor in AI Law and Regulation Surrey Institute for
 			People-Centred AI.
@@ -122,6 +134,12 @@
 			Doctoral Researcher of Futures of AI in Classroom Settings at
 			Designing Responsible NLP at the University of Edinburgh
 		</p>
+        <p>
+            <b>Tom Bidewell</b>
+            <br />
+            Doctoral Researcher of Computational Persuasion in the
+            Designing Responsible NLP Centre for Doctoral Training at the University of Edinburgh
+        </p>
 		<p>
 			<a href="vpapakonstantinou.com">Vagelis Papakonstantinou</a>
 			<br />

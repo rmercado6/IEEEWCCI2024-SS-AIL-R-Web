@@ -1,4 +1,4 @@
-<script setup></script>
+<script setup xmlns="http://www.w3.org/1999/html"></script>
 
 <template>
 	<!-- Key Dates -->
@@ -40,9 +40,34 @@
 		<div class="key-date">
 			<span class="font-semibold">1 July 2025</span><br />
 			<ul>
-				<li>IJCNN 2025 Special Session</li>
+				<li>
+                    <div class="flex flex-col">
+                        <span class="font-semibold">Special Session on AI, Law and Regulation</span>
+                        <span class="italic" >11:00 – 12:48</span>
+                        <span>Room: Leonardo da Vinci</span>
+                        <span>Session Chair: Amanda Horzyk, Asim Roy</span>
+                    </div>
+                </li>
 				<li>AI Policy and Regulation Workshop</li>
+                <li>
+                    <div class="flex flex-col">
+                        <span class="font-semibold">Workshop: AI Policy and Regulation</span>
+                        <span class="italic">14:00 - 18:30</span>
+                        <span>Room: Loyola</span>
+                        <span>Organizer(s): Asim Roy, Nicola Fabiano, Amanda Horzyk, Maja Nisevic</span>
+                    </div>
+                </li>
 			</ul>
+		</div>
+        <div class="key-date">
+			<span class="font-semibold">3 July 2025</span><br />
+			<ul>
+				<li>Industry AI Panel: Responding to the AI Act </li>
+				<li>XAI Section Meeting: Modern Challenges in XAI</li>
+			</ul>
+            <div>
+                Full Program is available <a target="_blank" href="https://2025.ijcnn.org/program/program">here</a>.
+            </div>
 		</div>
 	</div>
 </template>

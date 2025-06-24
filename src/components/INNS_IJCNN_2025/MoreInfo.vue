@@ -44,9 +44,9 @@
             will be given some weight.
         </p>
         <div class="flex items-center justify-center pb-12" >
-            <a class="btn" href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIJCNN2025%2FSubmission%2FIndex">
-                Submit here
-            </a>
+            <span class="text-red-500 font-bold italic">
+                Submission Closed. Notifications on Paper Acceptance Received.
+            </span>
         </div>
 
         <h3 class="text-3xl font-bold flex flex-row gap-3 mb-5">
