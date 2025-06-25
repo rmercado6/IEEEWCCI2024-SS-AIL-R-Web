@@ -68,6 +68,11 @@
             <br />
 			Asst. Professor, Balaji School of Law, Sri Balaji University, India.
 		</p>
+        <p>
+            <b>Bríd-Áine Parnell</b>
+            <br />
+            Doctoral Researcher in Designing Responsible NLP at the University of Edinburgh
+		</p>
 		<p>
 			<a href="https://www.law.ed.ac.uk/people/professor-burkhard-schafer"
 				>Burkhard Schafer</a
@@ -122,6 +127,12 @@
 			Academic Lawyer, Co-Founder and General Partner Expeditions Fund,
 			Ass. Professor in AI Law and Regulation Surrey Institute for
 			People-Centred AI.
+		</p>
+        <p>
+            <b>Neel Rajani</b>
+            <br />
+            Doctoral Researcher of Mechanistic Interpretability and LLM Training Dynamics in
+            the Designing Responsible NLP CDT at the University of Edinburgh
 		</p>
 		<p>
 			<b>Nicole Iverardi</b>
