@@ -3,9 +3,9 @@
 
 <template>
     <!-- Special Sponsored Meeting -->
-    <div class="section pt-0">
+    <div class="section">
         <h3 class="text-3xl font-bold flex flex-row gap-3 mb-5">
-            News: Workshop @WCCI 2026 From Algorithms to Accountability: Exploring AI Law and Ethics in Practice
+            Workshop @WCCI 2026 From Algorithms to Accountability: Exploring AI Law and Ethics in Practice
         </h3>
         <p>
             Again, this year, we will complement our Special Session on 'AI, Law and Regulation' efforts with <b>an expert workshop on cutting-edge topics of ethics and law in AI</b>.<br/>

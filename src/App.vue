@@ -7,6 +7,7 @@
 	import IEEE_WCCI_2024 from '@/Views/IEEE_WCCI_2024.vue';
 	import INNS_IJCNN_2025 from '@/Views/INNS_IJCNN_2025.vue';
 	import INNS_IJCNN_2026 from '@/Views/INNS_IJCNN_2026.vue';
+	import WCCI_WORKSHOP_2026 from './Views/WCCI_WORKSHOP_2026.vue';
 
 	const BASE_SITE_NAME = 'AI Law and Regulation';
 
@@ -28,6 +29,11 @@
 			description:
 				'IEEE World Congress on Computational Intelligence (WCCI) japan 2024: Special Session "AI, Law and Regulation".',
 			view: IEEE_WCCI_2024,
+		},
+		'WCCI-Workshop/2026': {
+			name: 'WCCI Workshop 2026',
+			description: '',
+			view: WCCI_WORKSHOP_2026,
 		},
 		// '/about': About
 	};
