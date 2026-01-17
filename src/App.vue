@@ -18,6 +18,11 @@
 				'International Joint Conference on Neural Networks (IJCNN) Maastricht 2026: Special Session "AI, Law and Regulation".',
 			view: INNS_IJCNN_2026,
 		},
+		'WCCI-Workshop/2026': {
+			name: 'WCCI Workshop 2026',
+			description: '',
+			view: WCCI_WORKSHOP_2026,
+		},
 		'/INNS_IJCNN/2025': {
 			name: 'INNS IJCNN 2025',
 			description:

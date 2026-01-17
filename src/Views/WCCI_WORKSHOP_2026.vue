@@ -1,6 +1,6 @@
 <script setup>
-	import HeaderSection from '@/components/INNS_IJCNN_2026/HeaderSection.vue';
-	import SpecialSponsoredMeeting from '@/components/INNS_IJCNN_2026/SpecialSponsoredMeeting.vue';
+	import HeaderSection from '@/components/WCCI_WORKSHOP_2026/HeaderSection.vue';
+	import SpecialSponsoredMeeting from '@/components/WCCI_WORKSHOP_2026/SpecialSponsoredMeeting.vue';
 </script>
 
 <template>
