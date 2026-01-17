@@ -157,6 +157,45 @@
 				Middle East, Europe, and the US. Invited lecturer at Harvard
 				University and MIT.
 			</li>
+			<li>
+				<b>Waridah Makena (Invited Reviewer)</b>
+				(<a href="https://waridahmakena.wordpress.com/"
+					>https://waridahmakena.wordpress.com/</a
+				>)
+				<a href="mialto:waridah.mckena7@gmail.com"
+					>waridah.mckena7@gmail.com</a
+				>
+				Waridah Makena is a global legal and compliance specialist with
+				extensive academic and policy research experience at the
+				intersection of AI governance, data protection, and emerging
+				technology regulation. She has reviewed LLM-level dissertations,
+				conducted research for UN Special Rapporteur reports, and served
+				as Associate Editor of an established law journal. Her work
+				bridges government/UN-level policy analysis with corporate
+				compliance implementation, translating complex regulatory
+				frameworks into actionable governance systems across fintech,
+				AI, and blockchain sectors
+			</li>
+			<li>
+				<b>Dr. Grace S. Thomson (Invited Reviewer)</b>
+				(Center for AI & Digital Policy)
+				<a href="mailto:thomson@caidp.org">thomson@caidp.org</a>
+				Grace S. Thomson serves as Director of the AI Policy Clinics at
+				the Center for AI & Digital Policy (CAIDP). She is the Assistant
+				Editor of the CAIDP Index, overseeing the research logistics for
+				this benchmark of AI policies and practices across 80 countries,
+				involving 400+ researchers. She has led policy recommendations
+				to the UK Parliament on AI governance, UK ICO on Generative AI:
+				purpose limitation, the legal basis for web scraping to train
+				gen AI models, accuracy in the lifecycle, and engineering
+				individual rights into gen AI systems. Contributor to the UNESCO
+				Global CSO and Academic Network: AI in the Public Sector Working
+				Group; the UNESCO/IESALC IG on Ethics, Safety, and Inclusion,
+				the Consejo Latinoamericano de Etica en Tecnología (CLETEC), and
+				the UAE AI Education Forum (UAE). Mentor of SDG-aligned projects
+				for the Diploma in Governance and Public Innovation
+				(CAF-Universidad Complutense de Madrid).
+			</li>
 		</ul>
 	</div>
 </template>

@@ -118,15 +118,16 @@
             <b>IEEE CIS SHIELD:</b>
             <ul>
                 <li>
-                    <b>Tayo Obafemi-Ajayi</b> (Missouri State University, SHIELD Technical Committee Chair),
+                    <b>Tayo Obafemi-Ajayi</b> (Missouri State University, 2025 SHIELD Technical Committee Chair),
                     TayoObafemiAjayi@MissouriState.edu, bio: Tayo Obafemi-Ajayi is an associate professor of
-                    Electrical Engineering (Guy Mace Professor of Engineering) at Missouri State University (MSU)
-                    in the Engineering Program. Her research focus is on developing explainable and ethical machine
-                    learning/AI algorithms for broad utility in biomedical applications including health informatics,
-                    deep learning, multi-modal data analysis. She received the MSU Atwood Excellence in Research and
-                    Teaching award 2924 and Board of Govenor's Faculty Excellence award 2025. She currently serves as
-                    a Technical Representative on the Administrative committee of IEEE Engineering Medicine and Biology
-                    Society (EMBS).  
+                    Electrical Engineering (Guy Mace Professor of Engineering) at Missouri State University
+                    (MSU) in the Engineering Program. As the faculty director of the Computational Learning
+                    Systems lab, her research focus is on developing explainable and ethical machine
+                    learning/AI algorithms for broad utility in biomedical applications including health
+                    informatics, deep learning, multi-modal data analysis. She received the MSU Atwood Excellence
+                    in Research and Teaching award 2924 and Board of Governor's Faculty Excellence award 2025.
+                    She served as a Technical Representative on the Administrative committee of IEEE Engineering
+                    Medicine and Biology Society (EMBS) 2023-2025.
                 </li>
                 <li>
                     <b>Keeley Crockett</b> (Manchester Metropolitan University, IEEE CIS AI Ethics Education and
