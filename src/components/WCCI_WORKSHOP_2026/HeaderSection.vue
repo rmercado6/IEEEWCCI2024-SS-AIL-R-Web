@@ -16,10 +16,13 @@
 		<div
 			class="flex flex-col pt-10 md:text-md mx-4 md:mx-5 mb-3 gap-3 md:basis-2/5"
 		>
-			<h2>INNS IJCNN 2026</h2>
+			<h2>WCCI 2026 INNS x IEEE SHIELD TC</h2>
 			<h1 class="text-3xl">
-				Workshop @WCCI 2026 From Algorithms to Accountability: Exploring
-				AI Law and Ethics in Practice
+				Workshop
+				<b
+					>From Algorithms to Accountability: Exploring AI Law and
+					Ethics in Practice</b
+				>
 			</h1>
 
 			<div class="flex gap-4">
